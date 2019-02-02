@@ -1,0 +1,20 @@
+{
+  "coding.sign.player_event": "Событие игрока",
+  "coding.sign.player_give_items": "Выдать предметы",
+  "coding.sign.player_inventory": "Действие игрока",
+  "coding.sign.player_void": "",
+  "coding.sign.player_clear_chat": "Очистить чат",
+  "coding.sign.player_clear_inventory": "Очистить инвентарь",
+  "coding.sign.player_clear_items": "Очист. предметы",
+  "coding.sign.player_communication": "Действие игрока",
+  "coding.sign.player_dialogue": "Диалог",
+  "coding.sign.player_give_random_item": "Выдать рандом",
+  "coding.sign.player_message": "Сообщение",
+  "coding.sign.player_remove_items": "Удалить предметы",
+  "coding.sign.player_replace_items": "Заменить предметы",
+  "coding.sign.player_set_armor": "Установить броню",
+  "coding.sign.player_set_item_in_slot": "Уст. предмет",
+  "coding.sign.player_set_items": "Уст. предметы",
+  "coding.sign.player_set_off_hand": "Предмет в 2 руку",
+  "coding.sign.player_set_slot": "Поставить слот"
+}
