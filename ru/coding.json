@@ -16,5 +16,6 @@
   "coding.sign.player_set_item_in_slot": "Уст. предмет",
   "coding.sign.player_set_items": "Уст. предметы",
   "coding.sign.player_set_off_hand": "Предмет в 2 руку",
-  "coding.sign.player_set_slot": "Поставить слот"
+  "coding.sign.player_set_slot": "Поставить слот",
+  "coding.sign.player_join": "Вход игрока"
 }
