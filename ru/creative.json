@@ -26,7 +26,7 @@
   "creative.item.my_worlds": "Мои миры",
   "creative.item.world_settings": "Управление миром",
   "creative.item.worlds_online": "Миры онлайн",
-  "creative.tab_footer.world" : "{name}",
+  "creative.tab_footer.world": "{name}",
   "creative.join_world": "{name} §fзашёл в мир",
   "creative.quit_world": "{name} §fвышел из мира",
   "creative.gui.build_management.allow": "{name}\n§aСтроительство разрешено",
