@@ -31,6 +31,8 @@
   "creative.tab_footer.world": "{name}",
   "creative.join_world": "{name} §fзашёл в мир",
   "creative.quit_world": "{name} §fвышел из мира",
+  "creative.allow_to_build": "Разрешено строить",
+  "creative.deny_to_build": "Запрещено строить",
   "creative.gui.build_management.allow": "{name}\n§aСтроительство разрешено",
   "creative.gui.build_management.deny": "{name}\n§cСтроительство запрещено",
   "creative.gui.flight_management.allow": "{name}\n§aПолёт разрешён",
