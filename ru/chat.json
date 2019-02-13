@@ -1,0 +1,3 @@
+{
+  "chat.player_profile": "{name}\n\n§bУровень: {level}\n§dКарма: {karma}\n§9Язык: {lang}"
+}
