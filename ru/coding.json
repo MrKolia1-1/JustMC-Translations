@@ -59,7 +59,7 @@
   "coding.gui.activator.player_sneak": "§9Игрок крадётся\n§7Выполняет код, когда\n§7игрок крадётся",
   "coding.gui.activator.player_sprint": "§dИгрок бежит\n§7Выполняет код, когда\n§7игрок начинает бежать",
   "coding.gui.activator.player_start_flight": "§dИгрок начал летать\n§7Выполняет код, когда\n§7игрок начинает летать",
-  "coding.gui.activator.player_stop_flight": "§dИгрок прекратил бежать\n§7Выполняет код, когда\n§7игрок перестаёт летать",
+  "coding.gui.activator.player_stop_flight": "§dИгрок прекратил летать\n§7Выполняет код, когда\n§7игрок перестаёт летать",
   "coding.gui.activator.player_stop_sprinting": "§dИгрок прекратил бежать\n§7Выполняет код, когда\n§7игрок перестаёт бежать",
   "coding.gui.activator.player_swap_hands": "§9Игрок меняет руки\n§7Выполняет код, когда игрок\n§7меняет предмет или предметы\n§7между основной и второй рукой",
   "coding.gui.activator.player_take_damage": "§cИгрок получает урон\n§7Выполняет код, когда\n§7игроку наносится урон",
